@@ -10,14 +10,14 @@
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js">
 	</script>
 	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"></link>
-	<script src="x_475676_angular_a.angular_app_clint_log.jsdbx"></script>
+	<script src="x_475676_angular_a.anglar_app_client_log.jsdbx"></script>
 	<div ng-app="angularapp" ng-controller="AngularAppCtrl as appctrl">
 		<input type="text" ng-model="myVar" placeholder="Enter some text here"></input>
 		<p></p>
 		   <div class="jumbotron">
-			   <h1 class="display-3">Hello World</h1>
+			   <h1 class="display-3">Hello World!</h1>
 			   <hr class="m-y-2"/>
-			   <p> {{myVar}}</p>
+			   <p>{{myVar}}</p>
 		</div>
 		<button ng-click="clearTxt()" type="button" class="btn btn-primary">Clear Text</button>
 	  </div>	
@@ -28,13 +28,13 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-08-07 09:12:46</sys_created_on>
         <sys_id>320a0d20dba65050dfd02946489619ea</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name>angular_app</sys_name>
         <sys_package display_value="Angular App" source="x_475676_angular_a">3ec9c120dba65050dfd029464896197d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Angular App">3ec9c120dba65050dfd029464896197d</sys_scope>
         <sys_update_name>sys_ui_page_320a0d20dba65050dfd02946489619ea</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-07 10:28:54</sys_updated_on>
+        <sys_updated_on>2020-08-07 14:59:21</sys_updated_on>
     </sys_ui_page>
 </record_update>
